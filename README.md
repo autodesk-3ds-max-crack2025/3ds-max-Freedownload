@@ -106,8 +106,8 @@ Autodesk 3ds Max is the industry-leading 3D modeling and animation software with
 - Disable incompatible plugins.  
 
 ❌ **Slow Viewport?**  
-- Enable **Nitrous Accelerated Graphics**.  
-- Reduce **viewport quality** in settings.  
+- Enable Nitrous Accelerated Graphics.  
+- Reduce viewport quality in settings.  
 
 ❌ **License Errors?**  
 - Block 3ds Max in firewall (`firewall.cpl`).  
@@ -149,4 +149,4 @@ Autodesk 3ds Max is the industry-leading 3D modeling and animation software with
 
 ---  
 
-**Made with Love 💖**  
+***Made with Full of Love 💖***  
